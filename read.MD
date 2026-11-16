@@ -80,8 +80,8 @@
       <h3>🌐 Nome do Projeto 01</h3>
       <p>Breve descrição do que o projeto faz, qual problema resolve e qual foi o seu papel no desenvolvimento.</p>
       <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://github.com/SEU-USUARIO-GITHUB/repositorio-1">🔗 Ver Código</a> • 
-      <a href="https://SEU-USUARIO-GITHUB.github.io/repositorio-1">🚀 Acessar Demo</a>
+      <a href="https://github.com/ferreira118/repositorio-1">🔗 Ver Código</a> • 
+      <a href="https://ferreira118.github.io/repositorio-1">🚀 Acessar Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Nome do Projeto 02</h3>
